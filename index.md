@@ -1,2 +1,2 @@
-# <h1> New Header
+# New Header
 I created a header
